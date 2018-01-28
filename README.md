@@ -22,7 +22,7 @@ Work in progress
   * [PDF REFERENCE](https://www.adobe.com/devnet/pdf/pdf_reference.html)
   * [Apache PDFBox](https://pdfbox.apache.org/)
 * TeX
-  * [tex.web](ftp://tug.ctan.org/pub/tex-archive/systems/knuth/dist/tex/tex.web)
+  * [tex](https://ctan.org/pkg/tex)
   * [TEX: The program](http://brokestream.com/tex.pdf)
   * [NTS – New Type­set­ting Sys­tem](https://ctan.org/tex-archive/systems/nts)
   * [TeXML](http://getfo.org/texml/)
